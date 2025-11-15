@@ -1,5 +1,5 @@
 # Space Station Safety Equipment Detection
-
+colab link : https://drive.google.com/drive/u/0/folders/1n7s2mE3dAYCVmvr_U8xqfcI-IbCDz6f9
 This project implements a YOLO-based object detection system for identifying 7 critical safety equipment items in a space station environment as part of the Duality AI Space Station Challenge #2.
 
 ## Object Classes
